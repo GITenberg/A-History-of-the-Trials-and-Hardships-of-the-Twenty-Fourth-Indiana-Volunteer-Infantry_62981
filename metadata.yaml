@@ -1,13 +1,18 @@
 _repo: A-History-of-the-Trials-and-Hardships-of-the-Twenty-Fourth-Indiana-Volunteer-Infantry_62981
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A History of the Trials and Hardships of the 24th Indiana Volunteer
   Infantry
+covers:
+- cover_type: archival
+  image_path: 62981-h/images/cover.jpg
 creator:
   author:
     agent_name: Fulfer, Richard J.
     gutenberg_agent_id: '52209'
     url: http://www.gutenberg.org/2009/agents/52209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62981#A-History-of-the-Trials-and-Hardships-of-the-Twenty-Fourth-Indiana-Volunteer-Infantry
 gutenberg_issued: '2020-08-19'
 gutenberg_type: Text
 identifiers:
